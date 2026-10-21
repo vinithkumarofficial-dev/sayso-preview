@@ -1,3 +1,3 @@
-# Sayso Creative, offline preview
+# Sayso Creative, site preview
 
-Double-click index.html to open the whole site from this folder. No server or internet needed. The brief form cannot send here.
+A static preview of the new site for sharing, built by `npm run preview:export` in the main repository. Not for search engines. The brief form cannot send here.
